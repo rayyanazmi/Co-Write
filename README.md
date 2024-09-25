@@ -1,8 +1,15 @@
 # Co-Write
 
-[![Vercel Deployment](https://vercel.com/button)](https://co-write-pi.vercel.app)
+**Co-Write** is a powerful, modern, and intuitive collaborative-text editor platform, designed to enhance teamwork and productivity. Inspired by Google Docs, Co-Write allows multiple users to work on the same document simultaneously with real-time synchronization. Whether you're editing a document with colleagues, sharing it with clients, or managing multiple projects, Co-Write ensures seamless collaboration and document management.
 
-**Co-Write** is an online collaborative text editor inspired by Google Docs. Built to enable real-time collaboration, it allows multiple users to edit the same document, share it securely, and manage their documents efficiently. The platform is designed to be fully responsive and intuitive, providing a seamless experience across devices.
+Built using the latest web technologies, **Co-Write** leverages **Next.js** for a robust and dynamic user interface, **Liveblocks** for real-time collaboration, and **TailwindCSS** for responsive design and elegant styling. The platform is secured with **GitHub authentication**, allowing users to safely log in, manage their documents, and collaborate without worrying about security breaches.
+
+### Key Highlights:
+- **Real-Time Collaboration**: No more waiting to see changes—edit documents with your team in real time.
+- **Advanced Document Management**: Create, share, and organize documents with ease, equipped with rich features like permissions management and threaded comments for in-depth discussions.
+- **Seamless User Experience**: Co-Write is fully responsive, offering a smooth experience on desktops, tablets, and mobile devices.
+
+Designed to demonstrate advanced developer skills in handling real-time environments, scalable architecture, and modern UI/UX practices, **Co-Write** is the ideal project for showcasing my expertise in web development and collaborative tools.
 
 ### 🌐 [Live Demo](https://co-write-pi.vercel.app)
 
