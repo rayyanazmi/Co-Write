@@ -1,7 +1,3 @@
-Here’s a comprehensive README file for your **Co-Write** project:
-
----
-
 # Co-Write
 
 [![Vercel Deployment](https://vercel.com/button)](https://co-write-pi.vercel.app)
@@ -92,11 +88,3 @@ Co-Write is deployed on Vercel. To deploy your own instance, follow these steps:
 ## Contributing
 
 Contributions are welcome! Feel free to open a pull request or submit an issue to report bugs or suggest new features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you need any further adjustments!
