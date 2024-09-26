@@ -1,3 +1,6 @@
+
+![Co-Write](https://github.com/user-attachments/assets/1f28ed92-fb8e-4f40-bb9c-deb63825980c)
+
 # Co-Write
 
 **Co-Write** is a powerful, modern, and intuitive collaborative-text editor platform, designed to enhance teamwork and productivity. Inspired by Google Docs, Co-Write allows multiple users to work on the same document simultaneously with real-time synchronization. Whether you're editing a document with colleagues, sharing it with clients, or managing multiple projects, Co-Write ensures seamless collaboration and document management.
