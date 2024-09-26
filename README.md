@@ -1,6 +1,3 @@
-
-![Co-Write](https://github.com/user-attachments/assets/1f28ed92-fb8e-4f40-bb9c-deb63825980c)
-
 # Co-Write
 
 **Co-Write** is a powerful, modern, and intuitive collaborative-text editor platform, designed to enhance teamwork and productivity. Inspired by Google Docs, Co-Write allows multiple users to work on the same document simultaneously with real-time synchronization. Whether you're editing a document with colleagues, sharing it with clients, or managing multiple projects, Co-Write ensures seamless collaboration and document management.
@@ -15,6 +12,7 @@ Built using the latest web technologies, **Co-Write** leverages **Next.js** for 
 Designed to demonstrate advanced developer skills in handling real-time environments, scalable architecture, and modern UI/UX practices, **Co-Write** is the ideal project for showcasing my expertise in web development and collaborative tools.
 
 ### 🌐 [Live Demo](https://co-write-pi.vercel.app)
+![Co-Write](https://github.com/user-attachments/assets/1f28ed92-fb8e-4f40-bb9c-deb63825980c)
 
 ## Features
 
